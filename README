@@ -1,0 +1,15 @@
+AUTHOR : GOVIND SHUKLA
+
+Do -->./a.out and the game will start
+Do -->make clean && make sample2D and the code will be compiled
+
+Instruction: If player comes to initial starting position, it means either you lose :( or you win :). See terminal to get the result in that case.
+
+GAME CONTROLS:
+
+MOVE LEFT ==> LEFT KEY
+MOVE RIGHT ==> RIGHT KEY
+MOVE UP ==> UP KEY
+MOVE DOWN ==> DOWN KEY
+CHANGE VISION/VIEW ==> c/C
+
